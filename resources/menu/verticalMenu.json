@@ -1,0 +1,111 @@
+{
+    "menu": [
+        {
+            "url": "/admin/dashboard",
+            "name": "Dashboard",
+            "icon": "menu-icon tf-icons bx bx-home-circle",
+            "slug": "dashboard-analytics"
+        },
+        {
+            "menuHeader": "Landing Sections"
+        },
+        {
+            "url": "/admin/class",
+            "name": "Classes",
+            "icon": "menu-icon tf-icons bx bx-layout",
+            "slug": "Classes"
+        },
+        {
+            "url": "/admin/sliders",
+            "name": "Slider Section",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "slug": "pages-account-settings"
+        },
+        {
+            "url": "/admin/plans",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "name": "Plans",
+            "slug": "pages-account-settings"
+        },
+        {
+            "url": "/admin/reviews",
+            "name": "Reviews",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "slug": "pages-account-settings"
+        },
+        {
+            "url": "/admin/services",
+            "name": "Services",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "slug": "pages-account-settings"
+        },
+        {
+            "url": "/admin/posts",
+            "name": "Blogs",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "slug": "pages-account-settings"
+        },
+        {
+            "menuHeader": "Dashboard Sections"
+        },
+        {
+            "name": "Classes",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "slug": "pages-account-settings",
+            "submenu": [
+                {
+                    "url": "/admin/planclasses",
+                    "name": "Plan classes",
+                    "slug": "layouts-without-navbar"
+                },
+                {
+                    "url": "/admin/scheduled-classes",
+                    "name": "Scheduled Classes",
+                    "slug": "layouts-without-navbar"
+                }
+            ]
+        },
+        {
+            "url": "/admin/coachs",
+            "name": "Coaches",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "slug": "pages-account-settings"
+        },
+        {
+            "url": "/admin/users",
+            "name": "Users",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "slug": "pages-account-settings"
+        },
+        {
+            "url": "/admin/users-plans",
+            "name": "Users Plan",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "slug": "pages-account-settings"
+        },
+        {
+            "url": "/admin/categories",
+            "name": "Subscriptions Services Type ",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "slug": "pages-account-settings"
+        },
+        {
+            "url": "/admin/faqs",
+            "name": "Faq's",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "slug": "pages-account-settings"
+        },
+        {
+            "url": "/admin/email-templates",
+            "name": "Email Templates",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "slug": "pages-account-settings"
+        },
+        {
+            "url": "/admin/manage-notifications",
+            "name": "Notifications",
+            "icon": "menu-icon tf-icons bx bx bx-dock-top",
+            "slug": "pages-account-settings"
+        }
+    ]
+}

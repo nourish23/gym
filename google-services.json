@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nourish-fitness",
+  "private_key_id": "9e5e20e3ad1060b7db34fc39ae6fe0035fd5da73",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxfZ9Jv4UmlH4o\n3qiUuxNX5dm6CNd+R9FHW4kLxcSld5k2gD7Ox1zLbrl/HekCqalnAxFRnRBd2sTf\nBcvYFk01S8WGaMANPCiLrE68YQ3w7YhbOkVk4KS9qiYPIoMd5b98UfSkcWVuXWW3\nVwI+sDmZ0JoLb1i5f2SXVfcxHuZ3ZMaNB5FDlorNHWBM4Se3+eDbv/jgJxYGS4Gn\nRAstFT5v3MhPmzbV5ZwVCAMhKzVOCqaCBMoTNkvOpaYiJisfsaMn5FcKT3lQ7Zn3\nd8BfxmzRehtFwWpc8A9D6BuyzZcoJCJn8S2ifcdt9pafbdmI2pF8WI1rJ7edMhJB\nllWVGnaLAgMBAAECggEATkKm1pzE+CLnkdvDl3j5aXtmylmVsw+1nnIk9nToZVFb\n1CUuDHzpVKXo0rz8ffkTQeGfZE4N5mRNBE2I+Sm0N3jGiqJrdCp/cj6ypOtie0Yx\nJpCGApnu6dY5W9kK2UbxbL6yUUPSxpwV+oY57ixD6aeKFNqu03Pxha0ZBqaqVh/0\nSBFRe4KW8g0XHoy5bB6JDRPA/3APUHYFNsgFQwj53p9wSIaSbIqB2y/IbZ7zInAk\n5Du/5iZ7E+QnPmQoequVrbZeFHss99TSSfGjWprRkVfGKZJqdF9xrz2f3IuPZL1A\nS/iJyu53S5eMWCLGTW3TXigWxXFMFI519ivzU/5ISQKBgQDaQT+Pl9730rbvphdm\n3qtHfpOOBsOh6IntWJmIczl5RuBFH7hD6J0ukU09PZ0whcU8u1Zugw1jmrqIdhsq\nUKD2tnrpDiZcKUR8SLZiZqXqYTyXFUvwOR4AZsDBhxk5KSz7W9vSWXVHynrrQbFp\nlgATX9YCBgxqNRz7fZbHIiax7QKBgQDQL6F5QHN4d1bLH5Ljs6XHjLQ8HbD2r2el\nJm0ZbUUWX+RdDto23/NeV3tYedzpI32GA/HRc481l5kx781jvUjRtd2FPclDioeM\nRbJN1rL+DmOY0acvXM/Majj2jtw09UtklszGxt+sj/WI+mYDbGhK2mHGiIQDAC26\n75pxk/AbVwKBgQCqnLzyJBdxhS/qMN00VjZwYhs4uELv61b+yfbjOqegDW69umkR\n9OICiCVoDSU2zCt+KTgMlbe+uDK/AAyGTJc3pTh5vMzx2HSn7zNbwsBKcw6pUEWX\nmR7B05E098YY7/4w1AMH8VSD9V2XUDg+wLp4ar9hv5au46wvUGKwchrrlQKBgE9r\nLDVeQe6d0A1zAQ0+Viq24XbheMXSij51Vz9Q8P8lG6/oX5R5gJTn2JUbAAwsTtFW\nJeTaKbKvH3DuYzL+XY4qy9Ptix7p9OWtHOUW13eVs6bzq8ykolz/1LUyMI0/WkCI\nSpw199QTov5bT5lUvMB5aL1dDMc8RTW/+/ICFqHHAoGBAKulRTSl+U+gY6RW+Sow\npGoiQy1WPHOE0Z8w40NpwuRb/3W3hkK8yccdYuXkVq4GZ1XEURCQh1Y7oDPlfY2D\nwUSXBTN3UmGTE7TxsPgX5q4xtnUV1a01rwBFLxHfJ8osM3ZBavNMovNCG79R8Ne6\nk0gbkFGmVxGOSlwI1rNTJMQ8\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-l3g33@nourish-fitness.iam.gserviceaccount.com",
+  "client_id": "104216476724329126146",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-l3g33%40nourish-fitness.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
